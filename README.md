@@ -1,5 +1,9 @@
-[![ Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiSantiago&layout=compact)](https://github.com/ThiSantiago/github-readme-)
-![ Estatísticas do GitHub do Anurag ](https://github-readme-stats.vercel.app/api?username=ThiSantiago&show_icons=true&theme=dark)
+<div align = "center">
+  <a href="https://github.com/ThiSantiago">
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=ThiSantiago&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ThiSantiago&layout=compact&langs_count=7&theme=dark" />
+  </a>
+</div>
 
 ###  Olá, me chamo Thiago Santiago  
 ____________________________________________________________
